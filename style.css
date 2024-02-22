@@ -24,4 +24,6 @@
 
 .escola {
     background-image: linear-gradient(#081767, #607538);
+    color: white;
+    display: flex;
 }
