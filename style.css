@@ -61,8 +61,11 @@ body{
     text-align: center;
 }
 
-.estudante-todos{
+.estudante-titulo{
     text-align: center;
+}
+
+.estudante-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
